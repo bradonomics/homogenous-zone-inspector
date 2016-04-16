@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       Homogenous Zone Inspector
- * Plugin URI:        https://github.com/mudcreek/homogenous-zone-inspector
+ * Plugin URI:        https://github.com/bradonomics/homogenous-zone-inspector
  * Description:       Defines custom post types and allows them to be updated via the WP API.
  * Version:           0.0.1
  * Author:            Brad West
